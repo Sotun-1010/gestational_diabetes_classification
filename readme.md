@@ -20,7 +20,9 @@ An interesting discovery about the data set is all the columns are very weakly c
 ## Tools
 
 - [Pandas](https://pandas.pydata.org)
+- [Matplotlib](https://matplotlib.org)
 - [Seaborn](https://seaborn.pydata.org)
+- [Numpy](https://numpy.org/)
 - [Sklearn](https://scikit-learn.org/stable/user_guide.html)
 - [Ydata profiling](https://docs.profiling.ydata.ai/latest/)
 
